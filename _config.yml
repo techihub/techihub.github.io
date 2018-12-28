@@ -1,10 +1,10 @@
 Title: Techihub
 short_title: TH
-Slogan: Electronics for Everyone
+Slogan: Technology for Everyone
 baseurl: "/"
 url: "https://techihub.github.io"
 Author: Nadirsha Aliyar
-Author_img: "/static/IMG/Arun.jpg"
+Author_img: "/static/IMG/"
 disqus_shortname: https-chipprogrammers-github-io-pimate
 addthis_id: ra-5aa39bfee6d7726e
 logo: "/static/IMG/chip.svg"
