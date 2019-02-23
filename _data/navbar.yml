@@ -18,3 +18,8 @@
 - menu: Sitemap
   link: https://techihub.github.io/sitemap.xml
   icon: fas fa-rss
+  
+- menu: sample
+  link: https://techihub.github.io/blog
+  icon: fas fa-rss
+  
